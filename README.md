@@ -1,6 +1,6 @@
 <h1>Joe McMullin</h1>
 
-<h2>Operations / Business Strategy Management / Technology & Cloud Innovation / Global Business / Army Veteran<h2>
+<h2>Operations / Business Strategy Management / Technology & Cloud Innovation / Global Business / Army Veteran</h2>
   
 <body>Joseph McMullin is a visionary, high-energy leader who thrives on understanding customer needs to drive enterprise technology solutions. A proud U.S. Army veteran, he excels in navigating complex requirements and providing best-in-class solutions at a global scale.
 
