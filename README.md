@@ -1,5 +1,10 @@
 <h1>Joe McMullin</h1>
 
+** Operations / Business Strategy Management / Technology & Cloud Innovation / Global Business / Army Veteran
+
+
+
+
 <!--
 **joemcmullin/joemcmullin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
