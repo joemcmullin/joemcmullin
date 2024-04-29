@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/joemcmullin" target="blank"><img src="https://img.shields.io/twitter/follow/joemcmullin?logo=twitter&style=for-the-badge" alt="joemcmullin" /></a> </p>
 
-- 🔭 I’m currently working on **multiple projects in Python and SQL**
+- 🔭 I’m currently working on **multiple projects in Tableau, MS Power BI, Python and SQL**
 
-- 🌱 I’m currently learning **on advanced data compression and rapid read/writes to storage for large data sets.**
+- 🌱 I’m currently learning **Data analytics with advanced data compression and rapid read/writes to storage for large data sets.**
 
 - 👯 I’m looking to collaborate on **any complex project where you think hiden information may reside.**
 
