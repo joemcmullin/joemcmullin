@@ -1,5 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C4E16AQGg7H1pGouSrQ/profile-displaybackgroundimage-shrink_350_1400/0/1627082420643?e=1718236800&v=beta&t=cqzN16rdt235_uZGv82vHTyH6S0KUA_tzaFHQ_AeT_s)
-
+![MasterHead](https://media.licdn.com/dms/image/v2/C4E16AQGg7H1pGouSrQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1627082420643?e=1741824000&v=beta&t=L8ok24WMwd2RiQKMZxVsuAL6gvddnx-_IvTmmwaTZNs)
 <h1 align="left">Hey there 👋, I'm Joe McMullin</h1>
 <h3 align="left">I am a dynamic leader passionate about leveraging customer insights to deliver enterprise technology solutions. As a proud U.S. Army veteran, I excel at navigating complex requirements and offering top-tier solutions on a global scale. I also have a particular passion for data—especially for interpreting it to uncover insights others might overlook, all in advancing progress in unexpected areas.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/322211/screenshots/17252563/media/822a49772fa289363283fe1e0bc6a99b.jpg?resize=1600x1200&vertical=center">
