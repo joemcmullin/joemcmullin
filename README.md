@@ -1,5 +1,5 @@
 <h1 align="left">Hey there 👋, I'm Joe McMullin</h1>
-<h4 align="left">I am a dynamic leader passionate about leveraging customer insights to deliver enterprise technology solutions. As a proud U.S. Army veteran, I excel at navigating complex requirements and offering top-tier solutions on a global scale. I also have a particular passion for data—especially for interpreting it to uncover insights others might overlook, all in advancing progress in unexpected areas.</h4>
+<h4 align="left">I am passionate about leveraging customer insights to deliver enterprise technology solutions. As a proud U.S. Army veteran, I excel at navigating complex requirements and offering top-tier solutions on a global scale. I also have a particular passion for data—especially for interpreting it to uncover insights others might overlook, all in advancing progress in unexpected areas.</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/322211/screenshots/17252563/media/822a49772fa289363283fe1e0bc6a99b.jpg?resize=1600x1200&vertical=center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joemcmulin&label=Profile%20views&color=0e75b6&style=flat" alt="joemcmulin" /> </p>
 
