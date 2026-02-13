@@ -1,29 +1,148 @@
-<h1 align="left">Hey there 👋, I'm Joe McMullin</h1>
-<h4 align="left">I am passionate about leveraging customer insights to deliver enterprise technology solutions. As a proud U.S. Army veteran, I excel at navigating complex requirements and offering top-tier solutions on a global scale. I also have a particular passion for data—especially for interpreting it to uncover insights others might overlook, all in advancing progress in unexpected areas.</h4>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/322211/screenshots/17252563/media/822a49772fa289363283fe1e0bc6a99b.jpg?resize=1600x1200&vertical=center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joemcmulin&label=Profile%20views&color=0e75b6&style=flat" alt="joemcmulin" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/joemcmullin" target="blank"><img src="https://img.shields.io/twitter/follow/joemcmullin?logo=twitter&style=for-the-badge" alt="joemcmullin" /></a> </p>
+<!-- Typing SVG Header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Joe+McMullin;AI+Engineer+%7C+Data+Scientist+%7C+U.S.+Army+Veteran" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on **multiple projects in creating Neural Networks for business data, image processing, Tableau, MS Power BI, Python and SQL**
+<br/>
 
-- 🌱 I’m currently learning **Machine Learning / Neural Networks, Data analytics with advanced data compression and rapid read/writes to storage for large data sets.**
+<!-- Profile Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joemcmullin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joemcmullin)
+[![Profile Views](https://komarev.com/ghpvc/?username=joemcmullin&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/joemcmullin)
 
-- 👯 I’m looking to collaborate on **any complex project where you think hiden information may reside.**
+</div>
 
-- 💬 Ask me about **the technologies you see on my GIT profile.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/joemcmullin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joemcmullin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joemcmullin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joemcmullin" height="30" width="40" /></a>
-</p>
+## 🧠 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I build intelligent systems that turn raw data into actionable insight. With a background in **neural networks**, **data analytics**, and **enterprise technology**, I specialize in solving problems others overlook.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joemcmullin&show_icons=true&locale=en&layout=compact" alt="joemcmullin" /></p>
+As a **U.S. Army veteran**, I bring discipline, adaptability, and a mission-first mindset to every project — whether it's architecting a CNN for image classification or benchmarking I/O performance across 5 million records.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joemcmullin&show_icons=true&locale=en" alt="joemcmullin" /></p>
+```python
+class JoeMcMullin:
+    role = "AI Engineer & Data Scientist"
+    background = "U.S. Army Veteran"
+    focus = ["Neural Networks", "Computer Vision", "Data Analytics", "Enterprise AI"]
+    currently = "Building AI-powered tools with Claude, TensorFlow & PyTorch"
+    fun_fact = "I find patterns in data the way others find shapes in clouds"
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joemcmullin&" alt="joemcmullin" /></p>
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 [NeuroMind Mapper](https://github.com/joemcmullin/neurommind-mapper)
+AI-powered mind mapping for neurodiverse learners — built with **Claude AI** and **Streamlit**. Transforms how people organize and visualize complex ideas.
+
+`Python` `Claude AI` `Streamlit`
+
+</td>
+<td width="50%">
+
+### 🔬 [Fashion MNIST CNN](https://github.com/joemcmullin/Convolutional-Fashion-MNIST-Neural-Network)
+Convolutional neural network for fashion image classification. Deep learning applied to real-world visual recognition challenges.
+
+`Python` `TensorFlow` `CNN`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🖼️ [CIFAR-10 CNN](https://github.com/joemcmullin/Convolutional-CIFAR_10-Neural-Network)
+Deep learning image recognition across 10 object categories. Demonstrates conv layers, pooling, and dropout for robust classification.
+
+`Python` `TensorFlow` `Deep Learning`
+
+</td>
+<td width="50%">
+
+### 🌍 [NJ Earthquake 2024](https://github.com/joemcmullin/New-Jersey-Earthquake-2024)
+Geospatial data visualization and seismic analysis of the 4.8 magnitude New Jersey earthquake. Interactive maps and statistical insights.
+
+`Python` `Jupyter` `Geospatial`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 [Data Manipulation](https://github.com/joemcmullin/Data-Manipulation)
+Benchmarking file format performance across **5 million records** — CSV, Parquet, Feather, HDF5. Compression ratios, read/write speeds, and storage optimization.
+
+`Python` `Pandas` `Benchmarking`
+
+</td>
+<td width="50%">
+
+### 🏥 [Health Data Visualizations](https://github.com/joemcmullin/DataVisulaizations)
+Medical data visualization with interactive Plotly charts. Gut health analysis uncovering hidden patterns in clinical datasets.
+
+`Python` `Plotly` `Seaborn`
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Data & Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Web & DevOps
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=joemcmullin&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=joemcmullin&theme=github-dark-blue&hide_border=true" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemcmullin&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect
+
+*I'm always interested in collaborating on AI/ML projects, data engineering challenges, or anything where hidden patterns need uncovering.*
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joemcmullin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joemcmullin)
+
+</div>
