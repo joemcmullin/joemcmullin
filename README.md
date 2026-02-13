@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Joe+McMullin;AI+Engineer+%7C+Data+Scientist+%7C+U.S.+Army+Veteran" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Joe+McMullin;AI+Engineer+%7C+Enterprise+Technology+Leader" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -16,18 +16,42 @@
 
 ## 🧠 About Me
 
-I build intelligent systems that turn raw data into actionable insight. With a background in **neural networks**, **data analytics**, and **enterprise technology**, I specialize in solving problems others overlook.
+High-energy technology leader who thrives on understanding customer needs to drive **enterprise technology solutions at massive scale**. I navigate complex requirements and deliver best-in-class solutions across global operations worth hundreds of millions of dollars.
 
-As a **U.S. Army veteran**, I bring discipline, adaptability, and a mission-first mindset to every project — whether it's architecting a CNN for image classification or benchmarking I/O performance across 5 million records.
+I build intelligent systems that turn raw data into actionable insight — from architecting CNNs for image classification to designing secure cloud deployments across **GCC High** and **AWS GovCloud**. I ensure financial and project alignment with diverse teams, maintaining a culture of collaboration and quality in fast-paced, security-critical environments.
 
 ```python
 class JoeMcMullin:
-    role = "AI Engineer & Data Scientist"
-    background = "U.S. Army Veteran"
-    focus = ["Neural Networks", "Computer Vision", "Data Analytics", "Enterprise AI"]
+    role = "AI Engineer & Enterprise Technology Leader"
+    focus = [
+        "AI & Data Science", "Cloud Innovation & Modernization",
+        "Enterprise Systems", "Cybersecurity", "Strategic Planning"
+    ]
+    scale = "$100M+ operations | $200M+ budget impact | Global teams"
     currently = "Building AI-powered tools with Claude, TensorFlow & PyTorch"
-    fun_fact = "I find patterns in data the way others find shapes in clouds"
+    certifications = "Cleared professional | Multiple cybersecurity certs"
 ```
+
+---
+
+## 🎯 Key Specializations
+
+<div align="center">
+
+`Strategic Planning & Design` `Cloud Innovation` `Modernization` `Project Management` `Global Business` `Team Building & Leadership` `Datacenter Operations` `Training & Mentoring` `Performance Development` `AI & Data Science` `Enterprise Systems` `Complex Problem-Solving` `Cybersecurity`
+
+</div>
+
+---
+
+## 🏆 Career Highlights
+
+- 📐 Developed and executed strategic plans, directing back-end operations to improve efficiency across KPIs for **$100M+ operations**
+- ☁️ Headed cross-functional team on a **$40M contract** — secure cloud deployments to **Microsoft 365 GCC High** and **AWS GovCloud**
+- 🏗️ Oversaw **$25M+ datacenter improvements**, Oracle Database upgrades, and enterprise modernization — now the gold standard
+- 🌍 Organized global staff for a **$14M+ program** — designed cloud architecture that **reduced infrastructure requirements by 50%**
+- 🔒 Managed security-critical operations with **$200M+ budget impact**
+- 🛡️ Cleared professional with **multiple cybersecurity certifications**
 
 ---
 
@@ -104,6 +128,14 @@ Medical data visualization with interactive Plotly charts. Gut health analysis u
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+### Cloud & Enterprise
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
 ### Data & Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -114,10 +146,6 @@ Medical data visualization with interactive Plotly charts. Gut health analysis u
 ### Web & DevOps
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
 
@@ -140,7 +168,7 @@ Medical data visualization with interactive Plotly charts. Gut health analysis u
 
 ### 💬 Let's Connect
 
-*I'm always interested in collaborating on AI/ML projects, data engineering challenges, or anything where hidden patterns need uncovering.*
+*I'm always interested in collaborating on AI/ML projects, enterprise technology challenges, or anything where innovation meets scale.*
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joemcmullin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joemcmullin)
