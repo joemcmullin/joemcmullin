@@ -18,15 +18,12 @@
 
 I build **neural networks**, **data pipelines**, and **cloud infrastructure** — from training CNNs on image classification tasks to architecting secure deployments across **AWS GovCloud** and **GCC High** environments. My work sits at the intersection of AI/ML engineering, data science, and cybersecurity.
 
-```python
-class JoeMcMullin:
-    languages    = ["Python", "SQL", "TypeScript"]
-    ml_stack     = ["TensorFlow", "PyTorch", "scikit-learn", "Pandas", "NumPy"]
-    cloud        = ["AWS GovCloud", "GCC High", "Docker", "Kubernetes"]
-    databases    = ["PostgreSQL", "Oracle", "MongoDB", "SQL Server"]
-    interests    = ["Deep Learning", "Computer Vision", "NLP", "Data Visualization"]
-    security     = "Cleared · Multiple cybersecurity certifications"
-```
+> **Languages:** Python · SQL · TypeScript
+> **ML Stack:** TensorFlow · PyTorch · scikit-learn · Pandas · NumPy
+> **Cloud:** AWS GovCloud · GCC High · Docker · Kubernetes
+> **Databases:** PostgreSQL · Oracle · MongoDB · SQL Server
+> **Interests:** Deep Learning · Computer Vision · NLP · Data Visualization
+> **Security:** Cleared · Multiple cybersecurity certifications
 
 ---
 
