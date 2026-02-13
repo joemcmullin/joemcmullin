@@ -20,17 +20,11 @@ High-energy technology leader who thrives on understanding customer needs to dri
 
 I build intelligent systems that turn raw data into actionable insight — from architecting CNNs for image classification to designing secure cloud deployments across **GCC High** and **AWS GovCloud**. I ensure financial and project alignment with diverse teams, maintaining a culture of collaboration and quality in fast-paced, security-critical environments.
 
-```python
-class JoeMcMullin:
-    role = "AI Engineer & Enterprise Technology Leader"
-    focus = [
-        "AI & Data Science", "Cloud Innovation & Modernization",
-        "Enterprise Systems", "Cybersecurity", "Strategic Planning"
-    ]
-    scale = "$100M+ operations | $200M+ budget impact | Global teams"
-    currently = "Building AI-powered tools with Claude, TensorFlow & PyTorch"
-    certifications = "Cleared professional | Multiple cybersecurity certs"
-```
+> 🔹 **$100M+ operations** · **$200M+ budget impact** · **Global teams**
+> 
+> 🔹 Currently building AI-powered tools with **Claude, TensorFlow & PyTorch**
+> 
+> 🔹 Cleared professional with **multiple cybersecurity certifications**
 
 ---
 
