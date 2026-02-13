@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Joe+McMullin;AI+Engineer+%7C+Enterprise+Technology+Leader" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Joe+McMullin;AI+Engineer+%7C+Data+Scientist+%7C+Cloud+Architect" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -16,36 +16,38 @@
 
 ## 🧠 About Me
 
-High-energy technology leader who thrives on understanding customer needs to drive **enterprise technology solutions at massive scale**. I navigate complex requirements and deliver best-in-class solutions across global operations worth hundreds of millions of dollars.
+I build **neural networks**, **data pipelines**, and **cloud infrastructure** — from training CNNs on image classification tasks to architecting secure deployments across **AWS GovCloud** and **GCC High** environments. My work sits at the intersection of AI/ML engineering, data science, and cybersecurity.
 
-I build intelligent systems that turn raw data into actionable insight — from architecting CNNs for image classification to designing secure cloud deployments across **GCC High** and **AWS GovCloud**. I ensure financial and project alignment with diverse teams, maintaining a culture of collaboration and quality in fast-paced, security-critical environments.
-
-> 🔹 **$100M+ operations** · **$200M+ budget impact** · **Global teams**
-> 
-> 🔹 Currently building AI-powered tools with **Claude, TensorFlow & PyTorch**
-> 
-> 🔹 Cleared professional with **multiple cybersecurity certifications**
+```python
+class JoeMcMullin:
+    languages    = ["Python", "SQL", "TypeScript"]
+    ml_stack     = ["TensorFlow", "PyTorch", "scikit-learn", "Pandas", "NumPy"]
+    cloud        = ["AWS GovCloud", "GCC High", "Docker", "Kubernetes"]
+    databases    = ["PostgreSQL", "Oracle", "MongoDB", "SQL Server"]
+    interests    = ["Deep Learning", "Computer Vision", "NLP", "Data Visualization"]
+    security     = "Cleared · Multiple cybersecurity certifications"
+```
 
 ---
 
-## 🎯 Key Specializations
+## 🎯 Technical Focus Areas
 
 <div align="center">
 
-`Strategic Planning & Design` `Cloud Innovation` `Modernization` `Project Management` `Global Business` `Team Building & Leadership` `Datacenter Operations` `Training & Mentoring` `Performance Development` `AI & Data Science` `Enterprise Systems` `Complex Problem-Solving` `Cybersecurity`
+`Deep Learning & CNNs` `Computer Vision` `Data Engineering` `Cloud Architecture` `Cybersecurity` `Geospatial Analysis` `ETL Pipelines` `Data Visualization` `AI Agents` `Database Optimization` `Infrastructure as Code` `Performance Benchmarking`
 
 </div>
 
 ---
 
-## 🏆 Career Highlights
+## 🏆 Highlights
 
-- 📐 Developed and executed strategic plans, directing back-end operations to improve efficiency across KPIs for **$100M+ operations**
-- ☁️ Headed cross-functional team on a **$40M contract** — secure cloud deployments to **Microsoft 365 GCC High** and **AWS GovCloud**
-- 🏗️ Oversaw **$25M+ datacenter improvements**, Oracle Database upgrades, and enterprise modernization — now the gold standard
-- 🌍 Organized global staff for a **$14M+ program** — designed cloud architecture that **reduced infrastructure requirements by 50%**
-- 🔒 Managed security-critical operations with **$200M+ budget impact**
-- 🛡️ Cleared professional with **multiple cybersecurity certifications**
+- 🧠 Designed and trained **convolutional neural networks** for image classification (Fashion MNIST, CIFAR-10)
+- 🤖 Built **AI-powered applications** with Claude, Streamlit, and LLM orchestration frameworks
+- ☁️ Architected **secure cloud migrations** to AWS GovCloud & Microsoft 365 GCC High — reduced infrastructure by **50%**
+- 📊 Benchmarked data pipelines across **5M+ records** — CSV, Parquet, Feather, HDF5 format comparison
+- 🌍 Built **geospatial data visualizations** and seismic analysis tools with interactive mapping
+- 🔒 Cleared professional with **multiple cybersecurity certifications**
 
 ---
 
@@ -162,7 +164,7 @@ Medical data visualization with interactive Plotly charts. Gut health analysis u
 
 ### 💬 Let's Connect
 
-*I'm always interested in collaborating on AI/ML projects, enterprise technology challenges, or anything where innovation meets scale.*
+*Always interested in collaborating on AI/ML projects, open-source tools, or anything involving neural networks and data.*
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joemcmullin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joemcmullin)
