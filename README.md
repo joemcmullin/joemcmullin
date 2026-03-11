@@ -1,69 +1,91 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Joe+McMullin;AI+Engineer+%7C+Data+Scientist+%7C+Cloud+Architect" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=80&lines=Joe+McMullin" alt="Joe McMullin" /></a>
 
-<br/>
+**AI Engineer &middot; iOS Developer &middot; Cloud Architect**
 
-<!-- Profile Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joemcmullin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joemcmullin)
-[![Profile Views](https://komarev.com/ghpvc/?username=joemcmullin&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/joemcmullin)
-
-</div>
-
----
-
-## 🧠 About Me
-
-I build **neural networks**, **data pipelines**, and **cloud infrastructure** — from training CNNs on image classification tasks to architecting secure deployments across **AWS GovCloud** and **GCC High** environments. My work sits at the intersection of AI/ML engineering, data science, and cybersecurity.
-
-> **Languages:** Python · SQL · TypeScript
-> **ML Stack:** TensorFlow · PyTorch · scikit-learn · Pandas · NumPy
-> **Cloud:** AWS GovCloud · GCC High · Docker · Kubernetes
-> **Databases:** PostgreSQL · Oracle · MongoDB · SQL Server
-> **Interests:** Deep Learning · Computer Vision · NLP · Data Visualization
-> **Security:** Cleared · Multiple cybersecurity certifications
-
----
-
-## 🎯 Technical Focus Areas
-
-<div align="center">
-
-`Deep Learning & CNNs` `Computer Vision` `Data Engineering` `Cloud Architecture` `Cybersecurity` `Geospatial Analysis` `ETL Pipelines` `Data Visualization` `AI Agents` `Database Optimization` `Infrastructure as Code` `Performance Benchmarking`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joemcmullin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joemcmullin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joemcmullin@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=joemcmullin&color=58A6FF&style=flat-square&label=Views)](https://github.com/joemcmullin)
 
 </div>
 
 ---
 
-## 🏆 Highlights
+I build **AI-powered applications**, ship **iOS health apps**, and architect **secure cloud infrastructure**. My work spans deep learning and LLM integrations, SwiftUI apps with HealthKit and Core Data, and cloud deployments across AWS GovCloud and Microsoft 365 GCC High.
 
-- 🧠 Designed and trained **convolutional neural networks** for image classification (Fashion MNIST, CIFAR-10)
-- 🤖 Built **AI-powered applications** with Claude, Streamlit, and LLM orchestration frameworks
-- ☁️ Architected **secure cloud migrations** to AWS GovCloud & Microsoft 365 GCC High — reduced infrastructure by **50%**
-- 📊 Benchmarked data pipelines across **5M+ records** — CSV, Parquet, Feather, HDF5 format comparison
-- 🌍 Built **geospatial data visualizations** and seismic analysis tools with interactive mapping
-- 🔒 Cleared professional with **multiple cybersecurity certifications**
+Currently building **Journey Tracker** — a GLP-1 therapy companion app with HealthKit integration, AI-powered lab analysis, and a custom 15-skill Claude Code pipeline that automates code review through App Store submission.
 
 ---
 
-## 🚀 Featured Projects
+## What I Build
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### AI / ML
+Deep learning, computer vision, LLM orchestration, Claude AI integrations, data pipeline benchmarking
+
+`Python` `TensorFlow` `PyTorch` `scikit-learn`
+
+</td>
+<td width="33%" valign="top">
+
+### iOS
+SwiftUI health apps, HealthKit, Core Data + CloudKit, StoreKit 2, Sign in with Apple
+
+`Swift` `SwiftUI` `Xcode`
+
+</td>
+<td width="33%" valign="top">
+
+### Cloud & Security
+AWS GovCloud, GCC High, hybrid cloud/on-prem, secure migrations, firewalls, cybersecurity infrastructure
+
+`AWS` `Docker` `Kubernetes`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 [NeuroMind Mapper](https://github.com/joemcmullin/neurommind-mapper)
-AI-powered mind mapping for neurodiverse learners — built with **Claude AI** and **Streamlit**. Transforms how people organize and visualize complex ideas.
+### Journey Tracker
+GLP-1 therapy companion app. HealthKit sync, AI-powered lab analysis via Claude API, Core Data + CloudKit, StoreKit 2 subscriptions.
+
+`Swift` `SwiftUI` `HealthKit` `Claude API`
+
+</td>
+<td width="50%">
+
+### [Claude Code Skills](https://github.com/joemcmullin/ClaudeCodeSkills)
+15-skill development toolkit. Automated code review, security audits, accessibility checks, App Store submission pipeline.
+
+`Claude Code` `Skills` `Pipeline`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [NeuroMind Mapper](https://github.com/joemcmullin/neurommind-mapper)
+AI-powered mind mapping for neurodiverse learners. Built with Claude AI and Streamlit for visual idea organization.
 
 `Python` `Claude AI` `Streamlit`
 
 </td>
 <td width="50%">
 
-### 🔬 [Fashion MNIST CNN](https://github.com/joemcmullin/Convolutional-Fashion-MNIST-Neural-Network)
-Convolutional neural network for fashion image classification. Deep learning applied to real-world visual recognition challenges.
+### [Fashion MNIST CNN](https://github.com/joemcmullin/Convolutional-Fashion-MNIST-Neural-Network)
+Convolutional neural network for fashion image classification. Deep learning applied to real-world visual recognition.
 
 `Python` `TensorFlow` `CNN`
 
@@ -72,36 +94,18 @@ Convolutional neural network for fashion image classification. Deep learning app
 <tr>
 <td width="50%">
 
-### 🖼️ [CIFAR-10 CNN](https://github.com/joemcmullin/Convolutional-CIFAR_10-Neural-Network)
-Deep learning image recognition across 10 object categories. Demonstrates conv layers, pooling, and dropout for robust classification.
-
-`Python` `TensorFlow` `Deep Learning`
-
-</td>
-<td width="50%">
-
-### 🌍 [NJ Earthquake 2024](https://github.com/joemcmullin/New-Jersey-Earthquake-2024)
-Geospatial data visualization and seismic analysis of the 4.8 magnitude New Jersey earthquake. Interactive maps and statistical insights.
+### [NJ Earthquake 2024](https://github.com/joemcmullin/New-Jersey-Earthquake-2024)
+Geospatial data visualization and seismic analysis. Interactive maps and statistical insights from the 4.8M event.
 
 `Python` `Jupyter` `Geospatial`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
-### 📊 [Data Manipulation](https://github.com/joemcmullin/Data-Manipulation)
-Benchmarking file format performance across **5 million records** — CSV, Parquet, Feather, HDF5. Compression ratios, read/write speeds, and storage optimization.
+### [Data Manipulation](https://github.com/joemcmullin/Data-Manipulation)
+Benchmarking file format performance across 5M+ records. CSV, Parquet, Feather, HDF5 comparison and optimization.
 
 `Python` `Pandas` `Benchmarking`
-
-</td>
-<td width="50%">
-
-### 🏥 [Health Data Visualizations](https://github.com/joemcmullin/DataVisulaizations)
-Medical data visualization with interactive Plotly charts. Gut health analysis uncovering hidden patterns in clinical datasets.
-
-`Python` `Plotly` `Seaborn`
 
 </td>
 </tr>
@@ -109,61 +113,49 @@ Medical data visualization with interactive Plotly charts. Gut health analysis u
 
 ---
 
-## ⚡ Tech Stack
+## Claude Code Toolkit
 
-<div align="center">
+A custom-built pipeline of **15 skills** that run in sequence with pass/fail gates — automating code review, AI code smell detection, security scanning, accessibility audits, performance profiling, test generation, and full App Store submission preparation.
 
-### AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Cloud & Enterprise
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Data & Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### Web & DevOps
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-</div>
+`Code Review` `AI Code Smell Audit` `Security Scan` `508 Accessibility` `Performance Audit` `Test Generation` `HealthKit Privacy` `Core Data Migration` `StoreKit 2` `Sign in with Apple` `ASO Copywriting` `App Store Submission` `Pipeline Orchestrator`
 
 ---
 
-## 📈 GitHub Stats
+## Tech Stack
+
+| | |
+|---|---|
+| **Languages** | Swift &middot; Python &middot; SQL &middot; TypeScript |
+| **iOS / Apple** | SwiftUI &middot; HealthKit &middot; Core Data &middot; CloudKit &middot; StoreKit 2 |
+| **AI / ML** | TensorFlow &middot; PyTorch &middot; scikit-learn &middot; Claude API &middot; Pandas &middot; NumPy &middot; Jupyter |
+| **Cloud** | AWS GovCloud &middot; GCC High &middot; Docker &middot; Kubernetes &middot; Nginx |
+| **Databases** | PostgreSQL &middot; Oracle &middot; MongoDB &middot; SQL Server &middot; SQLite &middot; MySQL |
+| **Security** | Firewalls &middot; Information Security &middot; Computer Forensics &middot; Windows Server |
+
+---
+
+## Highlights
+
+- Built a **15-skill Claude Code pipeline** that automates iOS code review, security, accessibility, and App Store submission
+- Architected **secure cloud migrations** to AWS GovCloud and GCC High — cut infrastructure requirements by 50%
+- Managed **cybersecurity infrastructure** across hybrid cloud and on-premises environments
+- Built **AI-powered applications** with Claude, Streamlit, and LLM orchestration frameworks
+- Benchmarked data pipelines across **5M+ records** — CSV, Parquet, Feather, HDF5 format comparison
+- **U.S. Army veteran** &middot; Cornell University Business Strategy &middot; Multiple cybersecurity certifications
+
+---
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=joemcmullin&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=joemcmullin&theme=github-dark-blue&hide_border=true" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemcmullin&layout=compact&theme=github_dark&hide_border=true" />
+<br/>
 
-</div>
+*Always interested in collaborating on AI/ML projects, iOS health apps, cloud architecture, or open-source tools.*
 
----
-
-<div align="center">
-
-### 💬 Let's Connect
-
-*Always interested in collaborating on AI/ML projects, open-source tools, or anything involving neural networks and data.*
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joemcmullin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joemcmullin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/joemcmullin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joemcmullin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joemcmullin@gmail.com)
 
 </div>
