@@ -15,7 +15,7 @@
 
 I build **AI-powered applications**, ship **iOS health apps**, and architect **secure cloud infrastructure**. My work spans deep learning and LLM integrations, SwiftUI apps with HealthKit and Core Data, and cloud deployments across AWS GovCloud and Microsoft 365 GCC High.
 
-Currently building **Journey Tracker** — a GLP-1 therapy companion app with HealthKit integration, AI-powered lab analysis, and a custom 15-skill Claude Code pipeline that automates code review through App Store submission.
+Currently building **Journey Tracker**, a GLP-1 therapy companion app with HealthKit integration, AI-powered lab analysis, and a custom 15-skill Claude Code pipeline that automates code review through App Store submission.
 
 ---
 
