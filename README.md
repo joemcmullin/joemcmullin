@@ -213,20 +213,36 @@ Development toolkit of automated skills for code review, security, and mobile re
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=joemcmullin&show_icons=true&count_private=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemcmullin&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58A6FF" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=joemcmullin&show_icons=true&count_private=true&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF&bg_color=0D1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=joemcmullin&show_icons=true&count_private=true&hide_border=true&theme=default&title_color=0969DA&icon_color=0969DA&text_color=1F2328&bg_color=FFFFFF">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joemcmullin&show_icons=true&count_private=true&hide_border=true&theme=default&title_color=0969DA&icon_color=0969DA&text_color=1F2328&bg_color=FFFFFF" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joemcmullin&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=58A6FF&bg_color=0D1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joemcmullin&layout=compact&langs_count=8&hide_border=true&theme=default&title_color=0969DA&text_color=1F2328&bg_color=FFFFFF">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joemcmullin&layout=compact&langs_count=8&hide_border=true&theme=default&title_color=0969DA&text_color=1F2328&bg_color=FFFFFF" alt="Top Languages" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=joemcmullin&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=58A6FF" alt="Contribution Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joemcmullin&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joemcmullin&bg_color=FFFFFF&color=0969DA&line=0969DA&point=0969DA&area=true&area_color=0969DA&hide_border=true">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=joemcmullin&bg_color=FFFFFF&color=0969DA&line=0969DA&point=0969DA&area=true&area_color=0969DA&hide_border=true" alt="Contribution Activity Graph" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=joemcmullin&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=joemcmullin&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=joemcmullin&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7">
+  <img src="https://github-trophies.vercel.app/?username=joemcmullin&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+</picture>
 
 </div>
 
