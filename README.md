@@ -216,12 +216,7 @@ Development toolkit of automated skills for code review, security, and mobile re
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=joemcmullin&show_icons=true&count_private=true&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF&bg_color=0D1117">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=joemcmullin&show_icons=true&count_private=true&hide_border=true&theme=default&title_color=0969DA&icon_color=0969DA&text_color=1F2328&bg_color=FFFFFF">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joemcmullin&show_icons=true&count_private=true&hide_border=true&theme=default&title_color=0969DA&icon_color=0969DA&text_color=1F2328&bg_color=FFFFFF" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joemcmullin&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=58A6FF&bg_color=0D1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joemcmullin&layout=compact&langs_count=8&hide_border=true&theme=default&title_color=0969DA&text_color=1F2328&bg_color=FFFFFF">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joemcmullin&layout=compact&langs_count=8&hide_border=true&theme=default&title_color=0969DA&text_color=1F2328&bg_color=FFFFFF" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joemcmullin&show_icons=true&count_private=true&hide_border=true&theme=default&title_color=0969DA&icon_color=0969DA&text_color=1F2328&bg_color=FFFFFF" alt="GitHub Stats" />
 </picture>
 
 </div>
